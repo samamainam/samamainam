@@ -44,7 +44,7 @@ A marketplace platform for buying & selling items with customizable offers, user
 **Tech Used:** MERN Stack, AWS S3, Socket.io  
 
 ### 🔹 Supreme Epoxy Services (Client Project)  
-Website for showcasing epoxy flooring & stone products using **WordPress & Vuba Stone integration**.  
+Website for showcasing epoxy flooring & stone products using **WordPress**.  
 
 ### 🔹 Supreme Power Wash (Client Project)  
 Service website offering residential & commercial cleaning services.  
@@ -53,11 +53,9 @@ Service website offering residential & commercial cleaning services.
 
 ---
 
-## 📫 Let's Connect  
-- 🌐 Portfolio: [YourPortfolioLinkHere]  
-- 💼 LinkedIn: [YourLinkedInLinkHere]  
-- 📧 Email: [YourEmailHere]  
-- 🐦 Twitter: [YourTwitterHandle]  
+## 📫 Let's Connect
+- 💼 LinkedIn: [https://www.linkedin.com/in/samamainam/]
+- 📧 Email: [samamamahar@gmail.com]
 
 ---
 
