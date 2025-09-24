@@ -70,8 +70,8 @@ Service website offering residential & commercial cleaning services.
 ---
 
 ## 📫 Let's Connect
-- 💼 LinkedIn: [https://www.linkedin.com/in/samamainam/]
-- 📧 Email: [samamamahar@gmail.com]
+- 💼 [LinkedIn](https://www.linkedin.com/in/samamainam/)
+- 📧 [Email](samamamahar@gmail.com)
 
 ---
 
